@@ -9,6 +9,7 @@ nav:
         - "Contacto": '/#contacto'
         - "Código de conducta": 'general/codigo-de-conducta.md'
         - "Contribuciones": 'general/contribuciones.md'
+        - "Definiciones/Concepto": 'general/definiciones.md'
         - "Reportar un problema": 'general/reportar-problemas.md'
     - "Librerías":
         - "Librerías de phpCfdi": 'librerias/index.md'
